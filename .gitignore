@@ -1,0 +1,33 @@
+# Pythonコンパイルファイル
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 環境設定
+.env
+.venv/
+env/
+venv/
+myenv/
+ENV/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# パッケージ関連
+*.egg-info/
+*.egg
+*.whl
+*.pyo
+
+# バイナリやキャッシュ
+*.so
+*.dll
+*.dylib
+*.bin
+*.log
+*.db
+*.sqlite
+
+# 仮想環境
+.vscode/
+.idea/
